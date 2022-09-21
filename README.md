@@ -1,2 +1,2 @@
 # testrepo
-IBM Course Getting Started with Git and GitHub
+It is a markdown file in this repository.
